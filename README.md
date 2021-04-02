@@ -4,7 +4,7 @@ In this project, you will build a route-planning algorithm like the one used in 
 We will be implementing the A* algorithm for finding the shortest path.
 
 # Resources
-This project was built as an implementation of A* algorithm from this [medium post](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2)
+This project was built as an apaptaion of A* algorithm from this [medium post](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2)
 
 # Acknowledgement
 Thanks to Nicholas Swift for a very good explanation and implementation of A* Algorithm block on medium
